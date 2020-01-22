@@ -1,0 +1,32 @@
+#header a:hover{
+  text-decoration: underline;
+}
+#links{
+  margin:auto;
+ 
+} 
+#links h1{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#links p{
+  
+  font-size: large;
+  line-height: 1.5em ;
+  
+}
+#links a:hover{
+  text-decoration: underline;
+}
+.post{
+  border:1px rgb(228, 226, 226) solid;
+  
+}
+.post-img img{
+  width:100%
+  
+}
+.about{
+  background-color: whitesmoke;
+  
+}
+
